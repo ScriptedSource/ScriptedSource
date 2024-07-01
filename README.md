@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to script.
 - I’m looking to collaborate with someone.
 - 📫 How to reach me: idk
-- ⚡ Fun fact: you can join my space to collaborate with me.
+- ⚡ Fun fact: you can join my orginization to collaborate with me.
 
 <!---
 ScriptedSource/ScriptedSource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
